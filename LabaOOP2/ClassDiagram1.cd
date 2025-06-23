@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LabaOOP2.Earthquake">
+    <Position X="4" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABEAAFACABAAABAAQAAABAAAAAAAFAAAA=</HashCode>
+      <FileName>Earthquake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabaOOP2.Flood">
+    <Position X="9.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAgAAAEAAEACAQAAQAAAQAAAAAAAoAAAAAAAA=</HashCode>
+      <FileName>Flood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalPhenomenon">
+    <Position X="6.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACEAAEACIAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NaturalPhenomenon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddFloodForm">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAACAAAAAiAAAAAACAAAAAAAAAAAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddEarthquakeForm">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIQAAAAAAAAACAAAAAgEAAAAAAAAAAAAAAAABIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainForm">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQgoJAiAACBQgAQECAEAAMEBAAAIAoEQIgQAAEAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
